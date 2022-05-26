@@ -35,3 +35,8 @@ section {
     list-style: none;
     display: inline-block;
 }
+
+.star-pic {
+    width: 100px;
+    height: 100px;
+}
