@@ -63,7 +63,7 @@ function ratePage(){
 
 // for (let i = 1; i < 5; i++){
     // execute this code
-}
+// }
 
 // i = 1 | TRUE | execute code | i = 2
 // i = 2 | TRUE | execute code | i = 3
