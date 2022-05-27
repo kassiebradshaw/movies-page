@@ -1,17 +1,17 @@
 body {
-    background: #8B3AB8;
+    background: #44c2fd;
     margin: 0px;
 }
 
 header {
-    background-color: rgb(241, 241, 157);
+    background-color: #5f59f7;
     border: solid 3px black;
     padding: 20px;
     margin: 0px;
 }
 
 nav {
-    background-color: rgb(235, 177, 68);
+    background-color: #343090;
     padding: 10px;
     margin-left: 200px;
 }
@@ -28,7 +28,7 @@ section {
 }
 
 #top-section {
-    background-color: pink;
+    background-color: #6592fd;
 }
 
 .poster-section {
@@ -37,6 +37,10 @@ section {
 }
 
 .star-pic {
-    width: 100px;
-    height: 100px;
+    width: 40px;
+    height: 40px;
+}
+
+a {
+    color: white;
 }
